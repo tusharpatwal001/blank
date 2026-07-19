@@ -13,3 +13,4 @@ wheels/
 *.toml
 *.lock
 *.csv
+*.png
